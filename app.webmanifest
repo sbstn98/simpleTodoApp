@@ -1,0 +1,13 @@
+{
+    "name": "Simple todoapp",
+    "short_name": "todoapp",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color" : "#fff" ,
+    "description": "A simple todo app",
+    "icons": [{
+      "src": "https://icons.iconarchive.com/icons/uiconstock/e-commerce/256/e-commerce-icon-icon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }]
+ }
