@@ -121,6 +121,9 @@ function displayTodo() {
       panelblock.classList.add('panel-block');
       panelblock.classList.add('is-block');
       doneButton.classList.add('is-pulled-right');
+      panelblock.classList.add('pb-3');
+      panelblock.classList.add('pt-2');
+
 
       // set the btn name to X
 
