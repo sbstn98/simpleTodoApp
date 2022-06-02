@@ -3,3 +3,8 @@
 #list {
     list-style-type: none;
     }
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
