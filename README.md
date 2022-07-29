@@ -1,4 +1,4 @@
-# simpletodoapp
+# Simple To-Do Progressiv Web App
 
 A simple To-Do Progressiv Web App, build with bulma.io Framework and Vanilla Javascript.
 
