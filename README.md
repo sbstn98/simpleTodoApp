@@ -1,6 +1,6 @@
 # Simple To-Do Progressiv Web App
 
-A simple To-Do Progressiv Web App, build with bulma.io Framework and Vanilla Javascript.
+A simple To-Do Progressiv Web App, build with bulma.io Framework and Vanilla JavaScript.
 
 Functions:
 
@@ -12,7 +12,7 @@ Used Technologies:
 
 - HTML
 - CSS
-- Vanilla Javascript
+- Vanilla JavaScript
 - Local Storage
 - Service Worker
 
